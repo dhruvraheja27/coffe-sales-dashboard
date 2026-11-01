@@ -25,4 +25,5 @@ Power BI | Power Query | DAX | Data Visualization
 
 This dashboard helps transform raw coffee sales data into meaningful visual insights, making it easier to understand business performance and support data-driven decision making.
 ## Dashboard Preview
-![Coffee Sales Dashboard] (./dashboard.png)
+
+![Coffee Sales Dashboard](./dashboard.png)
