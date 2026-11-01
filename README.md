@@ -1,29 +1,85 @@
 ☕ Coffee Sales Dashboard
 
-1. Project Title / Headline
+A professional Power BI Coffee Sales Dashboard designed to analyze coffee sales performance, revenue trends, product performance, customer purchasing patterns, and sales distribution throughout different times of the day. This project transforms raw coffee sales data into meaningful business insights through interactive charts and visualizations.
 
-Coffee Sales Analysis Dashboard | Power BI
+📸 Dashboard Preview
 
-2. Short Description / Purpose
+Coffee Sales Dashboard
 
-An interactive Power BI dashboard built to analyze coffee sales performance, identify sales trends, compare product performance, and understand customer purchasing patterns.
+📌 Project Overview
 
-3. Key Features
+The Coffee Sales Dashboard is an interactive business intelligence project developed using Microsoft Power BI.
 
-* 📊 Sales Trend Analysis: Analyze monthly sales and transaction trends.
-* ☕ Product Performance: Compare sales/quantity sold across different coffee products.
-* 🕐 Time-of-Day Analysis: Understand sales distribution across Morning, Afternoon, and Night.
-* 📌 KPI Overview: Track Total Sales, Total Transactions, and Average Price.
-* 🔍 Interactive Dashboard: Use filters and visualizations to explore sales insights.
-* 📈 Business Insights: Identify high-performing products and important sales patterns.
+The main objective of this project is to analyze coffee shop sales data and understand overall business performance. It provides insights into total sales, transactions, average price, product performance, and customer purchasing behavior.
 
-4. Tools & Technologies
+The dashboard helps identify top-selling coffee products, monthly sales trends, and customer purchasing patterns throughout different times of the day.
 
-Power BI | Power Query | DAX | Data Visualization
+🎯 Key Performance Indicators (KPIs)
 
-5. Project Outcome
+The dashboard displays important business metrics to understand overall coffee sales performance.
 
-This dashboard helps transform raw coffee sales data into meaningful visual insights, making it easier to understand business performance and support data-driven decision making.
-## Dashboard Preview
+* Total Sales: Represents the total revenue generated from coffee sales.
+* Total Transactions: Shows the total number of sales transactions.
+* Average Price: Displays the average price of coffee products sold.
 
-![Coffee Sales Dashboard](./dashboard.png)
+📈 Dashboard Features
+
+1. Sales Trend Analysis
+
+Analyzes monthly sales and transaction trends to understand business performance over time.
+
+2. Product Performance Analysis
+
+Compares sales and quantity sold across different coffee products to identify popular products.
+
+3. Time-of-Day Analysis
+
+Analyzes sales distribution across Morning, Afternoon, and Night to understand customer purchasing patterns.
+
+4. KPI Analysis
+
+Displays key performance indicators, including Total Sales, Total Transactions, and Average Price.
+
+5. Interactive Dashboard
+
+Provides interactive filters and visualizations to explore coffee sales data from different perspectives.
+
+6. Business Insights
+
+Helps identify high-performing products, important sales trends, and customer purchasing patterns.
+
+🛠️ Tools & Technologies
+
+* Microsoft Power BI: Used to develop the interactive dashboard and visual reports.
+* Power Query: Used for data cleaning and transformation.
+* DAX: Used to create calculated measures and KPIs.
+* Data Visualization: Used to represent sales data through interactive charts and graphs.
+* Data Analysis: Used to identify trends, patterns, and business performance.
+
+💡 Key Insights
+
+Based on the dashboard analysis:
+
+* Monthly sales trends help understand coffee shop performance over time.
+* Product-wise analysis identifies popular coffee products.
+* Time-of-day analysis highlights customer purchasing patterns during Morning, Afternoon, and Night.
+* Total transactions provide an overview of customer purchasing activity.
+* Average price helps understand the pricing performance of coffee products.
+* Interactive visualizations make it easier to explore sales performance.
+
+🎯 Project Objective
+
+The objective of this project is to develop an interactive coffee sales reporting solution that helps businesses monitor sales performance, understand customer purchasing behavior, identify popular products, and make better data-driven business decisions.
+
+👨‍💻 Author
+
+Dhruv Raheja
+
+Aspiring Data Analyst | Python | Machine Learning | Data Science | Data Analysis | Power BI
+
+📧 Email: dhruvvvraheja27@gmail.com
+
+⭐ If you find this project interesting, feel free to explore the dashboard and its features.
+
+Thank you for visiting my project!
+
