@@ -4,7 +4,7 @@ A professional Power BI Coffee Sales Dashboard designed to analyze coffee sales 
 
 📸 Dashboard Preview
 
-Coffee Sales Dashboard
+dashboard.png
 
 📌 Project Overview
 
